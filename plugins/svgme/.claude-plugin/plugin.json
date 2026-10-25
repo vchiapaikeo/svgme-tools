@@ -1,0 +1,11 @@
+{
+  "name": "svgme",
+  "version": "1.0.0",
+  "description": "Turn images, including AI-generated ones, into real vectors (SVG, PDF, EPS, DXF) with the SVG Me API.",
+  "author": {
+    "name": "SVG Me",
+    "url": "https://svgme.app"
+  },
+  "homepage": "https://svgme.app/ai-image-to-svg-mcp",
+  "keywords": ["svg", "vectorize", "image-to-svg", "cricut", "logo"]
+}

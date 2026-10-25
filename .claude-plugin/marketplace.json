@@ -1,0 +1,15 @@
+{
+  "name": "svgme",
+  "description": "SVG Me tools for AI agents: convert PNG, JPG and WebP images to clean SVG, PDF, EPS or DXF.",
+  "owner": {
+    "name": "SVG Me",
+    "url": "https://svgme.app"
+  },
+  "plugins": [
+    {
+      "name": "svgme",
+      "source": "./plugins/svgme",
+      "description": "Turn images, including AI-generated ones, into real vectors with the SVG Me API."
+    }
+  ]
+}
